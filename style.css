@@ -1,0 +1,43 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    background-color: purple;
+}
+
+.heading_div{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div2{
+    font-size: 18px;
+    background-color: pink;
+}
+
+.result_para_tag{
+    font-size: 20px;
+    box-shadow: 5px 5px 5px grey;
+    background-color: plum;
+}
+
+.copy_right_footer{
+    color: white;
+    background-color: grey;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 150px;
+}
